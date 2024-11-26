@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Bem-vindo ao meu perfil!
 
-<!--
-**jjoaoguilherme/jjoaoguilherme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Meu nome é João Guilherme e estou cursando Ciência da Computação na **Cesar School**. Sou apaixonado por videogames e tenho como objetivo trabalhar na área de desenvolvimento de jogos, especialmente como programador.  
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim  
+- 🎮 Adoro videogames e passo grande parte do meu tempo livre jogando.  
+- 💡 Gosto de aprender de forma prática, participando de cursos e desenvolvendo projetos.  
+- 📚 Atualmente, possuo conhecimento básico em **Python** e pretendo aprender **Java** em breve.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projetos  
+Confira um dos meus projetos: [link para o projeto]  
+
+## 🔗 Contato  
+Conecte-se comigo no [LinkedIn](#).  
+
+---
+Obrigado por visitar meu perfil! 🚀
