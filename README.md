@@ -14,11 +14,18 @@ Olá! Meu nome é João Guilherme e estou cursando Ciência da Computação na [
 
 ## 💻 Tecnologias & Ferramentas  
 - **Linguagens:**  
-  <span style="font-size: 1.2em;">![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)</span>  
+  <span style="font-size: 1.2em;">
+    [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+  </span>  
 - **Planejando aprender:**  
-  <span style="font-size: 1.2em;">![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)</span>  
+  <span style="font-size: 1.2em;">
+    [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)](https://www.oracle.com/java/)
+  </span>  
 - **Ferramentas:**  
-  <span style="font-size: 1.2em;">![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white), ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)</span>  
+  <span style="font-size: 1.2em;">
+    [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/), 
+    [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+  </span>
 
 ---
 
