@@ -34,8 +34,8 @@ Olá! Meu nome é João Guilherme e estou cursando Ciência da Computação na [
     <p>Confira abaixo as informações sobre minha atividade no GitHub!</p>
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" width="400px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dracula" alt="Linguagens Mais Usadas" width="400px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=jjoaoguilherme&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" width="400px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjoaoguilherme&layout=compact&theme=dracula" alt="Linguagens Mais Usadas" width="400px"/>
   </div>
 </div>
 
