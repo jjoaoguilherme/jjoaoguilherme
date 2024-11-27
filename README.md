@@ -41,7 +41,7 @@ Confira abaixo as informações sobre minha atividade no GitHub!
 - [**LinkedIn**](https://www.linkedin.com/in/jjoaoguilherme/)  
 - [**GitHub**](https://github.com/jjoaoguilherme)  
 - [**Portfólio**](https://seu-portfolio-link.com)  
-- 📧 **Email:** [jgbof@cesar.school](mailto:jgbof@cesar.school)  
+- [**Email**](mailto:jgbof@cesar.school)  
 
 ---
 
