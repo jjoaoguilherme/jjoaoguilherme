@@ -51,7 +51,8 @@ Olá! Meu nome é João Guilherme e estou cursando Ciência da Computação na [
 ## 🔗 Onde Me Encontrar  
 - [**LinkedIn**](https://www.linkedin.com/in/jjoaoguilherme/)  
 - [**GitHub**](https://github.com/jjoaoguilherme)  
-- [**Portfólio**](#)  
+- [**Portfólio**](https://seu-portfolio-link.com){:target="_blank"}  
+- 📧 **Email:** [jgbof@cesar.school](mailto:jgbof@cesar.school)  
 
 ---
 
