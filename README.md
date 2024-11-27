@@ -49,7 +49,7 @@ Olá! Meu nome é João Guilherme e estou cursando Ciência da Computação na [
 ---
 
 ## 🔗 Onde Me Encontrar  
-- [**LinkedIn**](#)  
+- [**LinkedIn**](https://www.linkedin.com/in/jjoaoguilherme/)  
 - [**GitHub**](https://github.com/jjoaoguilherme)  
 - [**Portfólio**](#)  
 
